@@ -1,4 +1,4 @@
-# project-AI
+# Cách cài đặt và sử dụng game Puzzel
 Yêu cầu công cụ để chạy:
   + Cài đặt máy ảo Java: JDK 8.
   + Cài đặt IDE: Neatbean.
